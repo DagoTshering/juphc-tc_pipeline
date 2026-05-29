@@ -1,1 +1,2 @@
 https://github.com/DagoTshering/juphc-tc_pipeline/blob/main/tasks.yaml
+https://github.com/DagoTshering/juphc-tc_pipeline/blob/main/pipeline.yaml
